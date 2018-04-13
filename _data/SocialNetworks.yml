@@ -6,6 +6,11 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+meetup:
+  name: "meetup"
+  baseURL: "https://www.meetup.com/"
+  icon: "fa-meetup"
+
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
