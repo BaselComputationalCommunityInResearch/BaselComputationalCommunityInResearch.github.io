@@ -8,10 +8,10 @@ subtitle: Bringing together scientist from academia and industry.
 We cover fields that are interesting for both academic research and research in industry.
 
 We believe that a seminar becomes the more attractive and beneficial to all participants the more all participants are involved in the discussion. Thus, we organise unusual setups that go far beyond common seminar structures. This includes:
- - _Slide carousels_ in which each participant presents their ideas in one minute with one slide
- - short talks with the same length of discussion time
- - _World Café style discussions_
- - _hackathons_
+ - __Slide carousels__ in which each participant presents their ideas in one minute with one slide
+ - **short talks** with the same length of discussion time
+ - **World Café style discussions**
+ - **hackathons**
 
 
 

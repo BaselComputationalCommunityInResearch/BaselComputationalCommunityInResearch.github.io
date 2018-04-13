@@ -4,28 +4,27 @@ title: Organisers
 subtitle: The team behind Methods & Beers.
 ---
 
-
-We combine our organisation meetings with a good lunch or a beer in one of the _Buvetten_. Read more about the organisers of the seminar here.
-
-
-## Louise Barys
-
-## Nicholas Kelley
-
-## Grainne Kerr
+The organisation team consists of researchers working at different academic and industry institutions spanning over the Basel area. We combine our organisation meetings with a good lunch or a beer in one of the _Buvetten_. Read more about the organisers of the seminar here.
 
 
+**Louise Barys**
 
+**Nicholas Kelley**, **founding member**,
 
-<img src="/img/carsten2.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Carsten Magnus** is a senior scientist in the [Computational Evolution Group][link Tanja] at the Department of Biosystems Science and Engineering ([D-BSSE][link BSSE]), ETH Zurich, which is located at the Rosental Campus in Basel. In his research, Carsten develops mathematical models to study biologically relevant questions concerning HIV dynamics and evolution. You will find more information on his research [here][link Carsten].
+**Grainne Kerr**, **founding member**,
 
 
 
 
-## Amanda Ross
+<img src="/img/carsten2.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Carsten Magnus**, **founding member**,  is a senior scientist in the [Computational Evolution Group][link Tanja] at the Department of Biosystems Science and Engineering ([D-BSSE][link BSSE]), ETH Zurich, which is located at the Rosental Campus in Basel. In his research, Carsten develops mathematical models to study biologically relevant questions concerning HIV dynamics and evolution. You will find more information on his research [here][link Carsten] or write an email to <carsten.magnus@bsse.ethz.ch>.
 
 
-## Elizaveta Semenova
+
+
+**Amanda Ross**
+
+
+**Elizaveta Semenova**
 
 
 <img src="/img/minion.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/> **You?** We are always happy about new people who help us organising the seminars and who contribute new and exciting ideas for seminar topics or ideas on how to make the seminar even more interactive. Maybe you also want to join the organisation team? Please feel free to [contact us][link contact].
