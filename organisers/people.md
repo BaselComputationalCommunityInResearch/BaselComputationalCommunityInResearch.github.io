@@ -21,9 +21,6 @@ The organisation team consists of researchers working at different academic and 
 
 
 
-**Amanda Ross**
-
-
 **Elizaveta Semenova**
 
 

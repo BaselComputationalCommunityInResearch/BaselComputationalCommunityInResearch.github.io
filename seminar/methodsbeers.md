@@ -20,9 +20,9 @@ We believe that a seminar becomes the more attractive and beneficial to all part
 **28 June 2018** at Swiss TPH about _Time series_. More information will follow soon.
 
 ### Keep updated
-To keep updated about the latest news on the _Methods and Beers_ seminars please subscribe to:
- - [Methods and Beers meetup][link MBmeetup]
- - [Methods and Beers on linkedIn][link MBlinkedIn]
+To keep updated about the latest news on the _Methods & Beers_ seminars please subscribe to:
+ - [_Methods & Beers_ meetup][link MBmeetup]
+ - [_Methods & Beers_ on linkedIn][link MBlinkedIn]
 
 
 [link future]: /seminar/futureevents
