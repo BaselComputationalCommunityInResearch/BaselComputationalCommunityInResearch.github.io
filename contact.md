@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-You write an  <a href="mailto:methodsandbeers@gmail.com">email to us</a> or contact each [organiser][link organiser] personally. You can also join us on:
+Please write an  <a href="mailto:methodsandbeers@gmail.com">email to us</a> or contact each [organiser][link organiser] personally. You can also join us on:
 
 - [Methods and Beers meetup][link MBmeetup]
 - [Methods and Beers on linkedIn][link MBlinkedIn]
