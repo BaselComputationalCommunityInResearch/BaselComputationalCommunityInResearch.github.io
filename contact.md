@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-You can reach us under _weneedanemailaddress@somewhere.ch_ or contact each [organiser][link organiser] personally. You can also join us on:
+You can reach us under _methodsandbeers@gmail.com_ or contact each [organiser][link organiser] personally. You can also join us on:
 
 - [Methods and Beers meetup][link MBmeetup]
 - [Methods and Beers on linkedIn][link MBlinkedIn]
