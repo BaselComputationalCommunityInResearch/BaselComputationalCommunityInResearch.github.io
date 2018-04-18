@@ -21,7 +21,7 @@ The organisation team consists of researchers working at different academic and 
 
 
 
-<img src="/img/liza.jpeg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/> **Elizaveta Semenova** is a PhD candidate in Epidemiology and  Biostatistics at [Swiss TPH](https://www.swisstph.ch/en/) in the group of [Penelope Vounatsou](https://www.swisstph.ch/en/about/eph/biostatistics/bayesian-modelling-and-analysis/), where she develops novel computational methods for Bayesian analysis of surveillance data, i.e. modeling of large spatio-temporal point patterns and count time series for outbreaks detection. Beyond academia, Liza is a hackathons frequent flyer, where her titles alternate between a participant, a winner, a jury member and an organiser [www.hackandlead.com](www.hackandlead.com). She is a passionate community builder, currently concentrating efforts around increasing diversity in STEM [www.womenplusplpus.ch](www.womenplusplpus.ch). Personal website: [elizavetasemenova.github.io](elizavetasemenova.github.io)
+<img src="/img/liza.jpeg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/> **Elizaveta Semenova** is a PhD candidate in Epidemiology and  Biostatistics at [Swiss TPH][link TPH] in the group of [Penelope Vounatsou][link Bayesian group], where she develops novel computational methods for Bayesian analysis of surveillance data, i.e. modeling of large spatio-temporal point patterns and count time series for outbreaks detection. Beyond academia, Liza is a hackathons frequent flyer, where her titles alternate between a participant, a winner, a jury member and an organiser [www.hackandlead.com][link HackNLead]. She is a passionate community builder, currently concentrating efforts around increasing diversity in STEM [www.womenplusplpus.ch][link wpp]. Personal website: [elizavetasemenova.github.io][link liza]
 
 
 <img src="/img/minion.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/> **You?** We are always happy about new people who help us organising the seminars and who contribute new and exciting ideas for seminar topics or ideas on how to make the seminar even more interactive. Maybe you also want to join the organisation team? Please feel free to [contact us][link contact].
@@ -31,3 +31,9 @@ The organisation team consists of researchers working at different academic and 
 [link BSSE]: http://www.bsse.ethz.ch/
 [link Tanja]: http://www.bsse.ethz.ch/cevo
 [link Carsten]: https://magnuscar.github.io
+
+[link TPH]: https://www.swisstph.ch/en/
+[link Bayesian group]: https://www.swisstph.ch/en/about/eph/biostatistics/bayesian-modelling-and-analysis/
+[link HackNLead]: www.hackandlead.com
+[link wpp]: www.womenplusplpus.ch
+[link liza]" elizavetasemenova.github.io
