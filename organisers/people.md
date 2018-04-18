@@ -34,6 +34,6 @@ The organisation team consists of researchers working at different academic and 
 
 [link TPH]: https://www.swisstph.ch/en/
 [link Bayesian group]: https://www.swisstph.ch/en/about/eph/biostatistics/bayesian-modelling-and-analysis/
-[link HackNLead]: www.hackandlead.com
-[link wpp]: www.womenplusplpus.ch
-[link liza]" elizavetasemenova.github.io
+[link HackNLead]: http://www.hackandlead.com/
+[link wpp]: https://www.womenplusplus.ch/
+[link liza]: https://elizavetasemenova.github.io/
