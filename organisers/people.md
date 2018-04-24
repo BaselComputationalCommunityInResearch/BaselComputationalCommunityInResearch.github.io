@@ -22,7 +22,6 @@ The organisation team consists of researchers working at different academic and 
 
 <img src="/img/carsten2.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Carsten Magnus**, **founding member**,  is a senior scientist in the [Computational Evolution Group][link Tanja] at the Department of Biosystems Science and Engineering ([D-BSSE][link BSSE]), ETH Zurich, which is located at the Rosental Campus in Basel. In his research, Carsten develops mathematical models to study biologically relevant questions concerning HIV dynamics and evolution. You will find more information on his research [here][link Carsten].
 
-<br/>
 
 <img src="/img/liza_bw.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/> **Elizaveta Semenova** is a PhD candidate in Epidemiology and  Biostatistics at [Swiss TPH][link TPH] in the group of [Penelope Vounatsou][link Bayesian group], where she develops novel computational methods for Bayesian analysis of surveillance data, i.e. modeling of large spatio-temporal point patterns and count time series for outbreaks detection. Beyond academia, Liza is a hackathons frequent flyer, where her titles alternate between a participant, a winner, a jury member and an organiser [www.hackandlead.com][link HackNLead]. She is a passionate community builder, currently concentrating efforts around increasing diversity in STEM [www.womenplusplus.ch][link wpp]. Personal website: [elizavetasemenova.github.io][link liza]
 
