@@ -11,9 +11,7 @@ The organisation team consists of researchers working at different academic and 
 
 **Nicholas Kelley**, **founding member**,
 
-**Grainne Kerr**, **founding member**,
-
-
+<img src="/img/grainne.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Grainne Kerr**,  **founding member**,  
 
 
 <img src="/img/carsten2.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Carsten Magnus**, **founding member**,  is a senior scientist in the [Computational Evolution Group][link Tanja] at the Department of Biosystems Science and Engineering ([D-BSSE][link BSSE]), ETH Zurich, which is located at the Rosental Campus in Basel. In his research, Carsten develops mathematical models to study biologically relevant questions concerning HIV dynamics and evolution. You will find more information on his research [here][link Carsten] or write an email to <carsten.magnus@bsse.ethz.ch>.
