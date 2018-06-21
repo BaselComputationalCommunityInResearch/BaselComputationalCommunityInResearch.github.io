@@ -6,10 +6,7 @@ subtitle: The team behind Methods & Beers.
 
 The organisation team consists of researchers working at different academic and industry institutions spanning over the Basel area. We combine our organisation meetings with a good lunch or a beer in one of the _Buvetten_. Read more about the organisers of the seminar here.
 
-
-
-<img src="/img/louise.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  
-**Louise Barys** is a bioinformatics Scientific Technical Leader in Oncology at the Novartis Institutes for BioMedical Research ([NIBR][link NIBR]). Louise trained in Biotechnology at the Ecole Supérieure de Biotechnologies de Strasbourg ([ESBS][link esbs]) and joined NIBR in 2006 as a molecular biologist.
+<img src="/img/louise.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Louise Barys** is a bioinformatics Scientific Technical Leader in Oncology at the Novartis Institutes for BioMedical Research ([NIBR][link NIBR]). Louise trained in Biotechnology at the Ecole Supérieure de Biotechnologies de Strasbourg ([ESBS][link esbs]) and joined NIBR in 2006 as a molecular biologist.
 <br/>
 
 <img src="/img/nick.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Nicholas Kelley**,  **founding member**, is a Research Investigator in Genomics at the Novartis Institutes for BioMedical Research ([NIBR][link NIBR]). Nick studied Chemistry at the [Florida State University][link FSU] and obtained a PhD in Biophysics at the [Stanford University School of Medicine][link Stanford]. After postdoctoral research at the Swiss Institute of Bioinformatics [SIB][link SIB], he joined NIBR in 2014.
