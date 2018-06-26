@@ -20,16 +20,18 @@ title: Past events
 
 ### Legend of locations and other abbreviations
 
-[D-BSSE][link D-BSSE]: Department for Biosystems Science and Engineering, Mattenstrasse 26, 4058 Basel  
-[FMI][link FMI]: Friedrich-Miescher Institut  
+[D-BSSE][link D-BSSE]: Department for Biosystems Science and Engineering, Mattenstrasse 26, 4058 Basel   
 [NIBR][link NIBR]: Novartis Institute of Biomedical Research  
+[Swiss TPH][link Swiss TPH]: Swiss Tropical and Health Institute
+[FMI][link FMI]: Friedrich-Miescher Institut
 
 ### Talks
-We highly encourage all speakers and participants to share their talks and slides to our [github page][link github]. However, some slides contain information that cannot be shared publicly due to industry regulations.
+We highly encourage all speakers and participants to share their talks and slides on our [github page][link github]. Unfortunately, some slides contain information that cannot be shared publicly due to industry regulations.
 
 
 [link D-BSSE]: http://www.bsse.ethz.ch
 [download data]: /downloads/databases.docx
 [link FMI]: http://www.fmi.ch/
 [link NIBR]: https://www.novartis.com/our-science/novartis-institutes-biomedical-research
+[link Swiss TPH]: https://www.swisstph.ch/
 [link github]: https://github.com/BaselComputationalCommunityInResearch
