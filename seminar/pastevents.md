@@ -20,9 +20,9 @@ title: Past events
 
 ### Legend of locations and other abbreviations
 
-[D-BSSE][link D-BSSE]: Department for Biosystems Science and Engineering   
+[D-BSSE][link D-BSSE]: Department for Biosystems Science and Engineering     
 [NIBR][link NIBR]: Novartis Institute of Biomedical Research  
-[Swiss TPH][link Swiss TPH]: Swiss Tropical and Health Institute
+[Swiss TPH][link Swiss TPH]: Swiss Tropical and Health Institute  
 [FMI][link FMI]: Friedrich-Miescher Institut
 
 ### Talks
