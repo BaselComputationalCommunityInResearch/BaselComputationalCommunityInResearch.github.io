@@ -21,11 +21,9 @@ You will get the opportunity to discuss how you can apply it to your projects an
 If you are working in the field and willing to share your knowledge please [contact us][link contact] in advance so that we can shape the discussions accordingly!
 
 ### Future meetings
-
-| Date   | Topic   | Location   | Further information   |
-|---|---|---|---|
-| **13 Sep 2018** | TBA | TBA |  More information will follow soon. |
-| **22 Nov 2018** | TBA | TBA |  More information will follow soon. |
+# Save the dates
+| **13 Sep 2018** |
+| **22 Nov 2018** | 
 
 
 
