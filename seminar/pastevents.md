@@ -23,7 +23,7 @@ title: Past events
 [D-BSSE][link D-BSSE]: Department for Biosystems Science and Engineering     
 [NIBR][link NIBR]: Novartis Institute of Biomedical Research  
 [Swiss TPH][link Swiss TPH]: Swiss Tropical and Health Institute  
-[FMI][link FMI]: Friedrich-Miescher Institut
+[FMI][link FMI]: Friedrich-Miescher Institute
 
 ### Talks
 We highly encourage all speakers and participants to share their talks and slides on our [github page][link github]. Unfortunately, some slides contain information that cannot be shared publicly due to industry regulations.
