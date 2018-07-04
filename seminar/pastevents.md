@@ -10,7 +10,7 @@ title: Past events
 
 | Date   | Topic   | Location   | Further information   |
 |---|---|---|---|
-| **28 Jun 2018** | Sequential (not sequencing!) data analysis | Swiss TPH |  World Café style discussion |
+| **28 Jun 2018** | Sequential (not sequencing!) data analysis | Swiss TPH |  World-café discussions |
 | **28 Jan 2018** | Single Cell RNA Sequencing | Novartis Campus |  Short talks by Panagiotis Papasaikas (FMI), Rebekka Wegmann (NIBR) and Jack Kuipers (D-BSSE), and panel discussion, additionally including  Walter Carbone and Charlotte Soneson. |
 | **30 Nov 2017** | Year end get together | Basel Weihnachtsmarkt |  Discuss science over a warming beverage. |
 | **21 Sep 2017** | Machine Learning II | D-BSSE |  Hackathon. |
