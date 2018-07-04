@@ -10,6 +10,7 @@ title: Past events
 
 | Date   | Topic   | Location   | Further information   |
 |---|---|---|---|
+| **28 Jun 2018** | Sequential (not sequencing!) data analysis | Swiss TPH |  World Café style discussion |
 | **28 Jan 2018** | Single Cell RNA Sequencing | Novartis Campus |  Short talks by Panagiotis Papasaikas (FMI), Rebekka Wegmann (NIBR) and Jack Kuipers (D-BSSE), and panel discussion, additionally including  Walter Carbone and Charlotte Soneson. |
 | **30 Nov 2017** | Year end get together | Basel Weihnachtsmarkt |  Discuss science over a warming beverage. |
 | **21 Sep 2017** | Machine Learning II | D-BSSE |  Hackathon. |
@@ -17,6 +18,7 @@ title: Past events
 | **16 Feb 2017** | Data sources and databases | D-BSSE |  Slide carousel and world-café discussion. Download the list of identified databases [here][download data]. |
 | **01 Dec 2016** | Phylodynamics | Novartis Campus | Talks from Jūlija Pečerska (D-BSSE) and Chris Field (Biozentrum, University of Basel). |
 | **28 Sep 2016** | Kick-off meeting | D-BSSE |  Identification of topics through slide carousel. |
+
 
 ### Legend of locations and other abbreviations
 
