@@ -7,10 +7,19 @@ title: Future events
 
 
 #### Methods and Beers 9 ####
-The next *Methods and Beers* seminar will be on November 22nd, 2018.
-The topic will be **`Real World Data'**, i.e. data collected outside the laboratory. This includes big health data collections as well as demographic data but is not limited to these two examples.
-How can we analyse these data sets? What are the chances and limitations of these data sets? Does collecting this data collide with our privacy?
- Please [contact us][link contact] if you want to give a talk or if you are eager to lead a discussion.
+
+This 9th *Methods and Beers* session will focus on **`Real World Data'**, defined as any big data collected outside the laboratory with examples around big health data collections as well as demographic data amongst other potential aspects.  
+After an exciting talk by Gorana Capkun (Head HE&OR Innovation - Novartis) about analyzing the impact of fatigue across many cohorts using health insurance claims data, you will get the opportunity to discuss with our panel of experts about peculiarity and analysis of these data sets, what are the chances and limitations, and whether collecting this data collide with our privacy.
+
+##### Time and place #####
+Thursday, 22 November 2018, 5pm  
+Department Biosystems Science and Engineering, ETHZ  
+Mattenstrasse 26   
+4058 Basel
+
+
+
+ Please [contact us][link contact] if you want contribute to the evening.
 
 ### Future meetings
 #### Save the date
