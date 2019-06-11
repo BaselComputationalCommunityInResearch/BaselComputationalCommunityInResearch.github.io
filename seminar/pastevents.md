@@ -10,7 +10,7 @@ title: Past events
 
 | Date   | Topic   | Location   | Further information   |
 |---|---|---|---|
-| **06 Jun 2018** | Predicting the next flu epidemic | D-BSSE | [Talk by Richard Neher][link talk RN] (Biozentrum) and hands-on tutorial to [nextstrain][link nextstrain] |  
+| **06 Jun 2019** | Predicting the next flu epidemic | D-BSSE | [Talk by Richard Neher][link talk RN] (Biozentrum) and hands-on tutorial to [nextstrain][link nextstrain] |  
 | **18 Dec 2018** | Year end get together | Basel Weihnachtsmarkt |  Discuss science over a warming beverage. |
 | **22 Nov 2018** | Real world data | D-BSSE | Talk by Gorana Capkun (NIBR) and panel discussion |  
 | **28 Jun 2018** | Sequential (not sequencing!) data analysis | Swiss TPH |  World-café discussions |

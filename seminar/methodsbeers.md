@@ -15,7 +15,7 @@ We believe that a seminar becomes the more attractive and beneficial to all part
 
 
 
-### [Next meeting][link future]
+### Next meeting
 
 You can find more information on the future events [here][link future].
 
