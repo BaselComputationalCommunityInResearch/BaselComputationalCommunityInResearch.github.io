@@ -9,16 +9,21 @@ The organisation team consists of researchers working at different academic and 
 <img src="/img/louise.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Louise Barys** is a bioinformatics Scientific Technical Leader in Oncology at the Novartis Institutes for BioMedical Research ([NIBR][link NIBR]). Louise trained in Biotechnology at the Ecole Supérieure de Biotechnologies de Strasbourg ([ESBS][link esbs]) and joined NIBR in 2006 as a molecular biologist.
 <br/>
 
+
+<img src="/img/monika.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/> **Monica Golumbeanu** is a postdoctoral fellow in the [Disease Intervention Dynamics][link TPH Penny] group of Prof. Melissa Penny at Swiss TPH. In her research, Monica develops data-driven computational analyses and mathematical models to understand malaria infection dynamics and the impact of interventions on host and parasite populations. Monica obtained a PhD in Computational Biology from ETH Zürich, where she studied gene expression dynamics of HIV infection.
+
+
 <img src="/img/nick.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Nicholas Kelley**,  **founding member**, is a Research Investigator in Genomics at the Novartis Institutes for BioMedical Research ([NIBR][link NIBR]). Nick studied Chemistry at the [Florida State University][link FSU] and obtained a PhD in Biophysics at the [Stanford University School of Medicine][link Stanford]. After postdoctoral research at the Swiss Institute of Bioinformatics [SIB][link SIB], he joined NIBR in 2014.
 
 
 <img src="/img/grainne.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Grainne Kerr**,  **founding member**, is an investigator in Oncology Bioinformatics at the Novartis Institutes for BioMedical Research ([NIBR][link NIBR]). Grainne studied Bioinformatics and Computer Science in Dublin where she also obtained a PhD in Bioinformatics. After postdoctoral research at the German Cancer Institute [DKFZ][link DKFZ], she transferred to industry and joined NIBR in 2014.
 
 
-<img src="/img/carsten2.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Carsten Magnus**, **founding member**,  is a senior scientist in the [Computational Evolution Group][link Tanja] at the Department of Biosystems Science and Engineering ([D-BSSE][link BSSE]), ETH Zurich, which is located at the Rosental Campus in Basel. In his research, Carsten develops mathematical models to study biologically relevant questions concerning HIV dynamics and evolution. You will find more information on his research [here][link Carsten].
+<img src="/img/carsten2.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Carsten Magnus**, **founding member**, has been researching at the [Computational Evolution Group][link Tanja] (Department of Biosystems Science and Engineering - [D-BSSE][link BSSE], ETH Zurich) and is now working at the [IMV][linkIMV] of University of Zurich. In his research, Carsten develops mathematical models to study biologically relevant questions concerning HIV dynamics and evolution. You will find more information on his research [here][link Carsten].
 
 
-<img src="/img/venelin.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Venelin Mitov**, completed a BSc in Computer Science at the University of Sofia. After 5 years experience as a software engineer, he completed a MSc in Computational Biology, followed by a PhD in Computational Evolution in the cEvo group of Prof. Dr. Tanja Stadler at ETH Zurich. In his research, Venelin is focusing on the development of computationally efficient methods for the analysis of big phylogenetic and continuous trait data. Currently, he continues his work in the cEvo group as a postdoctoral fellow.
+<img src="/img/venelin.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Venelin Mitov** completed a BSc in Computer Science at the University of Sofia. After 5 years experience as a software engineer, he added a MSc in Computational Biology, and a PhD in Computational Evolution in the [Computational Evolution Group][link Tanja] at [D-BSSE][link BSSE].  Venelin develops computationally efficient methods for the analysis of big phylogenetic and continuous trait data and is now a postdoc in the cEvo group.
+
 
 <img src="/img/minion.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/> **You?** We are always happy about new people who help us organising the seminars and who contribute new and exciting ideas for seminar topics or ideas on how to make the seminar even more interactive. Maybe you also want to join the organisation team? Please feel free to [contact us][link contact].
 
@@ -47,3 +52,5 @@ The organisation team consists of researchers working at different academic and 
 [link NIBR]: https://www.novartis.com/our-science/novartis-institutes-biomedical-research
 [link DKFZ]: https://www.dkfz.de/en/index.html
 [link SIB]: https://www.sib.swiss/
+[linkIMV]: https://www.virology.uzh.ch/en.html
+[link TPH Penny]: https://www.swisstph.ch/en/about/eph/infectious-disease-modelling/disease-and-intervention-dynamics/
