@@ -29,6 +29,7 @@ The organisation team consists of researchers working at different academic and 
 <br/>
 
 
+
 <img src="/img/minion.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/> **You?** We are always happy about new people who help us organising the seminars and who contribute new and exciting ideas for seminar topics or ideas on how to make the seminar even more interactive. Maybe you also want to join the organisation team? Please feel free to [contact us][link contact].
 
 
