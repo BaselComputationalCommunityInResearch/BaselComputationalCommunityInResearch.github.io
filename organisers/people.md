@@ -25,6 +25,9 @@ The organisation team consists of researchers working at different academic and 
 <img src="/img/venelin.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Venelin Mitov** completed a BSc in Computer Science at the University of Sofia. After 5 years experience as a software engineer, he added a MSc in Computational Biology, and a PhD in Computational Evolution in the [Computational Evolution Group][link Tanja] at [D-BSSE][link BSSE].  Venelin develops computationally efficient methods for the analysis of big phylogenetic and continuous trait data and is now a postdoc in the cEvo group.
 
 
+<img src="/img/diego.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/>  **Diego Saldana** is a Data Scientist at Roche Personalized Healthcare (PHC). He has developed models to analyze and predict from various data sources. Currently his main applications of interest are in oncology and clinico-genomics.
+
+
 <img src="/img/minion.jpg" alt="Drawing" style="width: 100px;" hspace="15px" align="left"/> **You?** We are always happy about new people who help us organising the seminars and who contribute new and exciting ideas for seminar topics or ideas on how to make the seminar even more interactive. Maybe you also want to join the organisation team? Please feel free to [contact us][link contact].
 
 
