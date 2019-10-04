@@ -4,12 +4,12 @@ title: Past events
 ---
 
 
-
-
 ### Past meetings
 
 | Date   | Topic   | Location   | Further information   |
 |---|---|---|---|
+| **06 June 2019** | Predicting Flu epidemics | D-BSSE | Talk by Richard Neher () with Hands-on session on [Nextstrain][link nextstrain] |
+| **22 November 2018** | Real World Data | D-BSSE | Talk by Gorana Capkun (NIBR) and podium discussion |
 | **28 Jun 2018** | Sequential (not sequencing!) data analysis | Swiss TPH |  World-café discussions |
 | **28 Jan 2018** | Single Cell RNA Sequencing | Novartis Campus |  Short talks by Panagiotis Papasaikas (FMI), Rebekka Wegmann (NIBR) and Jack Kuipers (D-BSSE), and panel discussion, additionally including  Walter Carbone and Charlotte Soneson. |
 | **30 Nov 2017** | Year end get together | Basel Weihnachtsmarkt |  Discuss science over a warming beverage. |
@@ -36,4 +36,4 @@ We highly encourage all speakers and participants to share their talks and slide
 [link FMI]: http://www.fmi.ch/
 [link NIBR]: https://www.novartis.com/our-science/novartis-institutes-biomedical-research
 [link Swiss TPH]: https://www.swisstph.ch/
-[link github]: https://github.com/BaselComputationalCommunityInResearch
+[link github]: https://nextstrain.org/
