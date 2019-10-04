@@ -37,4 +37,3 @@ Socinstrasse 57
 
 
 [link contact]:/contact
-[link nextstrain]:https://nextstrain.org
