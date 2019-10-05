@@ -23,7 +23,9 @@ Thursday, 10 October 2019, 17:00 - 19:00h
 Swiss Tropical and Public Health Institute  
 seminar room Matterhorn  
 Socinstrasse 57  
-4051 Basel
+4051 Basel  
+
+
 <img src="/img/mapSwissTPH.png" alt="Drawing" style="width: 300px;" hspace="15px" align="center"/>
 
 
