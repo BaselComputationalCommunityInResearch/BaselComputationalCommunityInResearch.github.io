@@ -19,11 +19,13 @@ The talks will be followed by a special round table discussion&networking sessio
 We hope to see you there!
 
 ##### Time and place #####
-Thursday, 10 October 2019, 17:00 - 19:00h  
+<img src="/img/mapSwissTPH.png" alt="Drawing" style="width: 150px;" hspace="15px" align="left"/>Thursday, 10 October 2019, 17:00 - 19:00h  
 Swiss Tropical and Public Health Institute  
 seminar room Matterhorn  
 Socinstrasse 57  
 4051 Basel
+
+
 
 
  Please [contact us][link contact] if you want contribute to the evening.
